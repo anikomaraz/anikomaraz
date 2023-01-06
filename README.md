@@ -20,7 +20,7 @@ I can't wait to hear from you! :blush:   aniko.maraz[at]gmail[dot]com
 
 ## About me
 
-I am a trained Psychologist who found real happiness in data. Kind of like this: 
+I am a trained Psychologist who loves data.  
 <a href="https://imgflip.com/i/76jgxi"><img src="https://i.imgflip.com/76jgxi.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div>
 
 Everything else you'll find on my [LinkedIn](https://www.linkedin.com/in/aniko-maraz-85220968/). 
