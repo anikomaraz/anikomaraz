@@ -1,6 +1,7 @@
-## Welcome to my GitHub Home!
+## Welcome to my GitHub Home! 👯
 <br>
 For a quick assessment of my work I briefly summarised 4 of my (many) projects on GitHub: <br>
+
 **1. Heart Risk Prediction App** <br>
 **2. LEGO Parts and Shades** <br>
 **3. Two-Container Deployment of Stock Price Prediction** <br>
