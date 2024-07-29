@@ -1,5 +1,5 @@
 ## Welcome to my GitHub Home! 👯
-Here you will find a brief summary of 4 of my projects on GitHub:
+Here you will find a brief summary of 4 of my (many) projects on GitHub: <br>
 **1. Heart Risk Prediction App** <br>
 **2. LEGO Parts and Shades** <br>
 **3. Two-Container Deployment of Stock Price Prediction** <br>
