@@ -1,8 +1,23 @@
 ******
 
-## Collaborate with me! 👯 
-### Predict Drug Use in Germany
-I've recently had the honour to have access to wastewater analysis results and dates regarding different compounds (drugs, such as MDMA, amphetamine, cocaine, etc.) collected over 150 cities in Europe. Data include measures from the past 10 years for one week each year among which are 16 German cities - that's a lot of exciting data! So I decided to work on a model to predict drug use based on publicly available data (i.e. tweets, wikipedia and google searches). *The goal is to display our live (automated) predictions on a public website to help the work of harm reduction and drug monitoring teams especially in the party scena.* I am looking for collaborators to share the workload with.  
+## Welcome to my GitHub Home! 👯
+Here you will find a brief summary of my projects that you can access on GitHub. 
+
+### 1. Heart Attack Risk Prediction App
+This project was inspired by the Heart Attack Risk Analysis competition on Kaggle, with predictions submitted to an ongoing challenge. The task was to predict heart attack risk (low/high) given 25 features of lifestyle and biometrics. After submitting my prediction to the Kaggle competition, I decided to develop another model, prioritising precision as a measure of goodness of fit to allow for more sensitive detection of high-risk cases.This model employs the XGBoost model with probability estimation. If the model identifies a positive case, it is correct 43% of the time. After several iterations, the project culminated in deployment on Google Cloud Platform with a Streamlit frontend. The scripts (written in Python) can be found in [this repository](https://github.com/anikomaraz/heart_attack_kaggle).
+
+Try it out!
+https://fake-heart-attack.streamlit.app/
+
+![Final Model Metrics](https://drive.google.com/uc?export=view&id=17j_i3x_7hsjq252NOC_0X-6kj3lcLK-s)
+
+
+
+### 2. 
+
+
+
+
 
 Contact me if you: 
 - find pleasure in web scraping to gather data by date from Twitter, Wikipedia and Google :earth_americas:
