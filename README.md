@@ -1,20 +1,24 @@
 ## Welcome to my GitHub Home! 👯
 <br>
 For a quick assessment of my work I briefly summarised 4 of my (many) projects on GitHub: <br>
-***********************************************************************************
-*  **1. Heart Risk Prediction App** <br>                                          *
-*        ML model-based on (fake) Kaggle data, fully deployed <br>                *
-*  **2. LEGO Parts and Shades** <br>                                              *
-*        Visualisation of real LEGO data<br>                                      *
-*  **3. Two-Container Deployment of Stock Price Prediction** <br>                 *
-*        Bootcamp project deployment with live data fetching<br>                  *
-*  **4. Shopping and Other Addictions during Covid-19** <br>                      *
-*        Academic project (real data) survey framework, statistical data analysis,*
-*        visualisation and publication <br>                                 *
+
+**1. Heart Risk Prediction App** <br>                                          
+        
+**2. LEGO Parts and Shades** <br> 
+        Visualisation of real LEGO data<br> 
+**3. Two-Container Deployment of Stock Price Prediction** <br> 
+        Bootcamp project deployment with live data fetching<br>
+  **4. Shopping and Other Addictions during Covid-19** <br>
+        Academic project (real data) survey framework, statistical data analysis,
+        visualisation and publication <br>   
 *********************************************************************************** 
  <br>  <br> 
+<details>
+ 
+<summary> 1. Heart Attack Risk Prediction App </summary>
 
-### 1. Heart Attack Risk Prediction App
+#### ML model-based on (fake) Kaggle data, fully deployed
+
 This project was inspired by the **Heart Attack Risk Analysis** competition on **Kaggle**. The task was to predict heart attack risk (low/high) given 25 lifestyle and biometric features. After submitting my prediction to the Kaggle competition, I decided to develop another model, prioritizing precision to allow for more sensitive detection of high-risk cases. This model employs the **XGBoost** algorithm with **probability estimation**. If the model identifies a positive case, it is correct 43% of the time. After several iterations, the project culminated in deployment on **Google Cloud Platform** with a Streamlit frontend. The scripts (written in **Python**) can be found in [this repository](https://github.com/anikomaraz/heart_attack_kaggle).
 
 Try it out! ➡️                                   [Heart Attack Risk App](https://fake-heart-attack.streamlit.app/)
@@ -22,6 +26,9 @@ Try it out! ➡️                                   [Heart Attack Risk App](htt
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=17j_i3x_7hsjq252NOC_0X-6kj3lcLK-s" alt="Heart Attack Risk Prediction App" width="50%">
 </p>
+
+</details>
+
 
 ### 2. LEGO Parts and Shades
 Do you like LEGO? Then you'll love this little **[visualization project](https://github.com/anikomaraz/LEGO/blob/main/lego.ipynb)** that analyzes LEGO parts, sets, and color shades since their inception in 1949! My favorite image:
