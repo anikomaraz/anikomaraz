@@ -1,11 +1,18 @@
 ## Welcome to my GitHub Home! 👯
 <br>
 For a quick assessment of my work I briefly summarised 4 of my (many) projects on GitHub: <br>
-
-**1. Heart Risk Prediction App** <br>
-**2. LEGO Parts and Shades** <br>
-**3. Two-Container Deployment of Stock Price Prediction** <br>
-**4. Shopping and Other Addictions during Covid-19** <br> <br> 
+***********************************************************************************
+*  **1. Heart Risk Prediction App** <br>                                          *
+*        ML model-based on (fake) Kaggle data, fully deployed <br>                *
+*  **2. LEGO Parts and Shades** <br>                                              *
+*        Visualisation of real LEGO data<br>                                      *
+*  **3. Two-Container Deployment of Stock Price Prediction** <br>                 *
+*        Bootcamp project deployment with live data fetching<br>                  *
+*  **4. Shopping and Other Addictions during Covid-19** <br>                      *
+*        Academic project (real data) survey framework, statistical data analysis,*
+*        visualisation and publication <br>                                 *
+*********************************************************************************** 
+ <br>  <br> 
 
 ### 1. Heart Attack Risk Prediction App
 This project was inspired by the **Heart Attack Risk Analysis** competition on **Kaggle**. The task was to predict heart attack risk (low/high) given 25 lifestyle and biometric features. After submitting my prediction to the Kaggle competition, I decided to develop another model, prioritizing precision to allow for more sensitive detection of high-risk cases. This model employs the **XGBoost** algorithm with **probability estimation**. If the model identifies a positive case, it is correct 43% of the time. After several iterations, the project culminated in deployment on **Google Cloud Platform** with a Streamlit frontend. The scripts (written in **Python**) can be found in [this repository](https://github.com/anikomaraz/heart_attack_kaggle).
