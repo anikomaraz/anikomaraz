@@ -60,6 +60,6 @@ This project provided a unique opportunity to observe how the progress of the pa
 
 ## About me
 
-I am a Psychologist and a trained Data Scientist.  
+I am a psychologist who can interpret numbers.  
 Contact me at: aniko.maraz[at]gmail[dot]com  
 [LinkedIn](https://www.linkedin.com/in/aniko-maraz-85220968/).
