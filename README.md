@@ -12,13 +12,14 @@ This project was inspired by the <b>Heart Attack Risk Analysis</b> competition o
 
 Try it out! ➡️                                   [Heart Attack Risk App](https://fake-heart-attack.streamlit.app/)
 
-Check out the app here: [https://fake-heart-attack.streamlit.app/](https://fake-heart-attack.streamlit.app/)
-
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=17j_i3x_7hsjq252NOC_0X-6kj3lcLK-s" alt="Heart Attack Risk Prediction App" width="50%">
 </p>
 
 </details>
+
+Check out the app here: [https://fake-heart-attack.streamlit.app/](https://fake-heart-attack.streamlit.app/)
+
 <br>
 
 <details>
